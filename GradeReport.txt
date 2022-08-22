@@ -1,0 +1,5 @@
+Java Class Grade Report:
+------------------------
+D. Duck has an exam average of 86.67
+M. Mouse has an exam average of 93.33
+H. Simpson has an exam average of 68.33
